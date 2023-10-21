@@ -1,7 +1,7 @@
 # 2022_Data_Youth_Campus
-This is an unoffical repository for the team project at Data Youth Campus held by Ministry of Science of ICT and Yonsei University, June ~ August, 2022.
+This is the unofficial repository from Data Youth Campus, held by Ministry of Science and ICT with Yonsei University in June ~ August, 2022.
 
-Education is consist of the 'Big Data Analysis and Processing' course (140H) and the team project (210H). I am a team leader of 'Coding in the Trap'. Project code would be release soon.
+Education consists of the 'Big Data Analysis and Processing' course (140H) and the team project (210H). I'm a leader of the team 'Coding in the Trap'. Project code will be released soon in this repository.
 
 For more information, visit https://dataonair.or.kr/bigjob/
 
