@@ -1,0 +1,19 @@
+# Reference
+# https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-%EA%B9%83%ED%97%99-PRPull-Request-%EB%B3%B4%EB%82%B4%EB%8A%94-%EB%B0%A9%EB%B2%95-folk-issue
+# Remove git init: https://wnsgml972.github.io/git/2018/01/22/git_init/
+# Config: https://bogyum-uncle.tistory.com/125
+git init
+git config --global core.autocrlf true
+git config --global user.name "gynchoi"
+git config --global user.email "gynchoi17@gmail.com"
+git config --global --add safe.directory %cd%
+git config --list
+git remote add origin "https://github.com/gynchoi/2022_Data_Youth_Campus.git"
+git fetch origin
+git add Thumbnail_Complexity/
+git commit -m "Thumbnail_Complexity_Analysis"
+git checkout -b local
+git rebase local
+git push origin local
+git branch -d local
+rm -r .git
